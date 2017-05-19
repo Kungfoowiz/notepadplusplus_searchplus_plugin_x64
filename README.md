@@ -1,5 +1,6 @@
 # Search+ 64bit port of this plugin for Notepad++ 
 # I quickly hacked this together and it works with my Notepad++ for 64 bit plugins. 
+# The 64 bit dll is in the Release folder, download and install into your Notepad++ 'plugins' folder. 
 # Originally developed by Amarghosh so all credit to him! =) 
 # https://github.com/amarghosh/searchplus
 
